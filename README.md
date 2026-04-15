@@ -90,7 +90,7 @@ engine stop <id>
 
 All required screenshots are included in:
 
-**OS_Project_Report_Jyothika.pdf**
+[OS_PROJECT_JYOTHIKA.pdf](./OS_PROJECT_JYOTHIKA.pdf)
 
 The report covers:
 
